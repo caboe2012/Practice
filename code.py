@@ -33,3 +33,5 @@ def scrabble_score(word):
 user = raw_input(print ("Let's tally some scores!"))
 
 print scrabble_score(user)
+
+##Some random changes so that I can update my Git Branch
