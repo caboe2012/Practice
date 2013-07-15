@@ -35,3 +35,7 @@ user = raw_input(print ("Let's tally some scores!"))
 print scrabble_score(user)
 
 ##Some random changes so that I can update my Git Branch
+## new code to check how "merge" feature works
+## and this time I'll make the changes in the BRANCH!
+## it looks like "merge" undos the benefit of a brach.
+## let's see if a second branch proves it.
